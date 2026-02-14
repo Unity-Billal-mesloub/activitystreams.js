@@ -1,7 +1,7 @@
 # NOTE: Deprecated
 
 The OpenSocial/activitystreams.js repository is no longer maintained. Please 
-use http://github.com/jasnell/activitystrea.ms instead.
+use http://github.com/Unity-Billal-mesloub/activitystreams.js instead.
 
 # Activity Streams 2.0 JavaScript Reference Implementation
 
